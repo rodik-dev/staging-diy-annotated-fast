@@ -159,5 +159,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://staging-diy-annotated-fast-f89e9.netlify.app"
 }
